@@ -21,7 +21,7 @@ The tool reverse-engineers the custom `.pack` format using the following binary 
 4. **Data Clusters:** Sequential raw bytes located at their respective calculated `FileOffset` inside the pack.
 
 ## Usage
-1. Open the compiled executable and click **Button1**.
+1. Open the compiled executable and click **UNPACK**.
 2. Select any compatible `.pack` archive file via the dialog box.
 3. The program will parse the structure, show the index logs inside the memo frame, and automatically dump all 163 assets into an `Extracted\` directory right next to the utility.
 
